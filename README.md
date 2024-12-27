@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose M. Linares G.</h1>
 <h3 align="center">A passionate frontend developer from Valencia, Venezuela &#127483;&#127466;</h3>
 
-- 🔭 I’m currently working on [Consolitex (demo web)](https://consolitex.vercel.app)
-
 - 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **a React project**
